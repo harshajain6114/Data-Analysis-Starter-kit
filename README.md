@@ -24,13 +24,12 @@ It covers the complete workflow: exploratory data analysis (EDA), machine learni
    ```bash
    git clone https://github.com/harshajain6114/Data-Analysis-Starter-kit.git
    cd Data-Analysis-Starter-kit
-````
+
 
 2. Install dependencies:
-
-   ```bash
+    ```bash
    pip install -r requirements.txt
-   ```
+   
 
 3. Open notebooks in Jupyter or Google Colab.
 
@@ -47,7 +46,8 @@ A detailed walkthrough of this starter kit is available here:
 
 ---
 
-````
+```
 
----
+
+
 
