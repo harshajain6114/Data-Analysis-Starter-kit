@@ -44,9 +44,8 @@ It covers the complete workflow: exploratory data analysis (EDA), machine learni
 A detailed walkthrough of this starter kit is available here:
 [Blog: Data Analysis Starter Kit](https://medium.com/@harshajain6114/the-ultimate-data-analysis-starter-kit-a-beginners-guide-ad0fd9d1c408)
 
----
 
-```
+
 
 
 
